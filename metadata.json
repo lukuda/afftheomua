@@ -1,0 +1,8 @@
+{
+  "name": "Affiliate Growth Hub VN",
+  "description": "A comprehensive strategic guide and AI-powered tool for affiliate marketing via short videos in the Vietnam market, organized by seasonal trends and shopping festivals.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
